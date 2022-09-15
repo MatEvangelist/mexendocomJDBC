@@ -1,5 +1,7 @@
 package teste;
 
+import ConnectionFactory.FabricaConexao;
+
 import java.sql.Connection;
 import java.sql.SQLException;
 import java.sql.Statement;
