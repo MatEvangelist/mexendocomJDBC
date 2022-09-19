@@ -1,6 +1,6 @@
-package teste;
+package br.com.evangelista.teste;
 
-import ConnectionFactory.FabricaConexao;
+import br.com.evangelista.ConnectionFactory.FabricaConexao;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

@@ -1,4 +1,4 @@
-package teste;
+package br.com.evangelista.teste;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

@@ -1,4 +1,4 @@
-package domain;
+package br.com.evangelista.domain;
 
 public class Pessoa {
 

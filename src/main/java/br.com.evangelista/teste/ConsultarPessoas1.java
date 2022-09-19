@@ -1,7 +1,7 @@
-package teste;
+package br.com.evangelista.teste;
 
-import ConnectionFactory.FabricaConexao;
-import domain.Pessoa;
+import br.com.evangelista.ConnectionFactory.FabricaConexao;
+import br.com.evangelista.domain.Pessoa;
 
 import java.sql.Connection;
 import java.sql.ResultSet;
